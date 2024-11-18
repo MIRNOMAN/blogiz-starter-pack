@@ -14,7 +14,7 @@ const BlogDetails = ({ blog }:{blog: Blog}) => {
       <div className="avatar items-center justify-center bg-slate-100 mb-5 py-5 rounded-lg text-2xl">
         <div className="w-8 mr-1 rounded-full">
           <Image
-            src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+            src="https://images.unsplash.com/photo-1491528323818-fdd1faba62cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
             width={100}
             height={100}
             alt="author image"
